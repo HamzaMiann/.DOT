@@ -2,7 +2,7 @@
 
 . D O T
 ========
-![view](https://gfycat.com/ResponsibleIdleHoverfly)
+![view](https://thumbs.gfycat.com/ResponsibleIdleHoverfly-size_restricted.gif)
 
 Project for a line and vector based game with heavy randomization and aesthetic quality.
 
