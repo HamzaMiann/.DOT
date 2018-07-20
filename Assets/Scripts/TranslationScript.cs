@@ -113,7 +113,7 @@ public class TranslationScript : MonoBehaviour {
 
     private void OnDrawGizmos()
     {
-        RenderPath();
+        //RenderPath();
     }
 
     void RenderPath()

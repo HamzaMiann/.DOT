@@ -61,8 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CollideScript.cs" />
-    <Compile Include="Assets\MovementScript.cs" />
+    <Compile Include="Assets\PlatformLifeTime.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -108,9 +107,11 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\Scripts\CollideScript.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
     <Compile Include="Assets\Scripts\MouseTrackScript.cs" />
+    <Compile Include="Assets\Scripts\MovementScript.cs" />
     <Compile Include="Assets\Scripts\ShootScript.cs" />
     <Compile Include="Assets\Scripts\TranslationScript.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
